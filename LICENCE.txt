@@ -20,9 +20,12 @@ You may not:
 TraceProof, including its design, code and documentation, remains the property of its author. Open-source
 components included in TraceProof are used under their own licences.
 
-4. YOUR DATA
-TraceProof runs on your computer or your server. It does not send your data, your warehouse content or your
-credentials to the author. You are responsible for your data, your accounts and for keeping backups.
+4. SET-UP AND YOUR DATA
+Every installation is set up with an admin code from the author: to receive it you send your name, your company,
+your e-mail address and the installation ID. When TraceProof's e-mail is set up, the author also receives a short
+notice of every invitation (who invited whom, with which role – never the invitation link).
+Apart from this, TraceProof runs on your computer or your server and does not send your data, your warehouse
+content or your credentials to the author. You are responsible for your data, your accounts and for keeping backups.
 
 5. NO WARRANTY
 TraceProof is provided "as is", without warranty of any kind. Check its results before you rely on them.
