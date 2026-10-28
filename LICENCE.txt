@@ -1,0 +1,39 @@
+TRACEPROOF – END-USER LICENCE AGREEMENT
+
+Please read this agreement before installing or using TraceProof. By installing or using TraceProof you agree to it.
+If you do not agree, do not install or use TraceProof.
+
+1. LICENCE
+TraceProof is licensed, not sold. You may install and use TraceProof:
+  - during a free trial of 14 days from its first start, for evaluation; and
+  - after the trial, only with a valid licence key issued for your installation, within the number of users,
+    the plan and the period stated in that key.
+
+2. RESTRICTIONS
+You may not:
+  - copy, share, sell, rent or lend TraceProof or a licence key, or use a licence key on another installation;
+  - reverse engineer, decompile or disassemble TraceProof, or try to get around its licence checks, except where
+    the law allows this despite this restriction;
+  - remove or change any notice of ownership.
+
+3. OWNERSHIP
+TraceProof, including its design, code and documentation, remains the property of its author. Open-source
+components included in TraceProof are used under their own licences.
+
+4. YOUR DATA
+TraceProof runs on your computer or your server. It does not send your data, your warehouse content or your
+credentials to the author. You are responsible for your data, your accounts and for keeping backups.
+
+5. NO WARRANTY
+TraceProof is provided "as is", without warranty of any kind. Check its results before you rely on them.
+
+6. LIMITATION OF LIABILITY
+To the extent the law allows, the author is not liable for any indirect or consequential loss, loss of data,
+profit or business arising from the use of TraceProof. The author's total liability is limited to the amount
+you paid for the licence in the twelve months before the claim.
+
+7. END
+This agreement ends automatically if you break it. Then you must stop using TraceProof and delete it.
+
+8. CONTACT
+Licences, questions and support: saitechlab11@gmail.com
